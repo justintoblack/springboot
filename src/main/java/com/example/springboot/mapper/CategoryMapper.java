@@ -9,6 +9,6 @@ import java.util.List;
 @Mapper
 public interface CategoryMapper {
 
-    @Select("select * from testdb.category_")
+//    @Select("select * from testdb.category_")
     List<Category> findAll();
 }
