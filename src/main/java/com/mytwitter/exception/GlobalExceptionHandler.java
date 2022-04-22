@@ -1,4 +1,4 @@
-package com.example.springboot.exception;
+package com.mytwitter.exception;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
